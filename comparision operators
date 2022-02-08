@@ -1,0 +1,25 @@
+
+'''
+
+a=int(input("Enter a"))
+b=int(input("Enter b"))
+print(a<b)
+print(a>b)
+print(a>=b)
+print(a<=b)
+print(a==b)
+print(a!=b)
+
+
+Enter a 24
+Enter b 6
+False
+True
+True
+False
+False
+True
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
